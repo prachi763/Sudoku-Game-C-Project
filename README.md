@@ -1,1 +1,1 @@
-# Sudoku-Game-C-Project
+This basic Sudoku project was created for the Summer Internship Training program for Object oriented Programming in C++, under the guidance Of Mr. SOHAN LAL GUPTA sir. This Console Application Was Build On Visual Studio In C++. 
